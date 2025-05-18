@@ -1,0 +1,11 @@
+C:\Users\ziedz\source\repos\GestionParcellesSolution\AM.Core.Domaine\bin\Debug\net8.0\AM.Core.Domaine.deps.json
+C:\Users\ziedz\source\repos\GestionParcellesSolution\AM.Core.Domaine\bin\Debug\net8.0\AM.Core.Domaine.dll
+C:\Users\ziedz\source\repos\GestionParcellesSolution\AM.Core.Domaine\bin\Debug\net8.0\AM.Core.Domaine.pdb
+C:\Users\ziedz\source\repos\GestionParcellesSolution\AM.Core.Domaine\obj\Debug\net8.0\AM.Core.Domaine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziedz\source\repos\GestionParcellesSolution\AM.Core.Domaine\obj\Debug\net8.0\AM.Core.Domaine.AssemblyInfoInputs.cache
+C:\Users\ziedz\source\repos\GestionParcellesSolution\AM.Core.Domaine\obj\Debug\net8.0\AM.Core.Domaine.AssemblyInfo.cs
+C:\Users\ziedz\source\repos\GestionParcellesSolution\AM.Core.Domaine\obj\Debug\net8.0\AM.Core.Domaine.csproj.CoreCompileInputs.cache
+C:\Users\ziedz\source\repos\GestionParcellesSolution\AM.Core.Domaine\obj\Debug\net8.0\AM.Core.Domaine.dll
+C:\Users\ziedz\source\repos\GestionParcellesSolution\AM.Core.Domaine\obj\Debug\net8.0\refint\AM.Core.Domaine.dll
+C:\Users\ziedz\source\repos\GestionParcellesSolution\AM.Core.Domaine\obj\Debug\net8.0\AM.Core.Domaine.pdb
+C:\Users\ziedz\source\repos\GestionParcellesSolution\AM.Core.Domaine\obj\Debug\net8.0\ref\AM.Core.Domaine.dll
